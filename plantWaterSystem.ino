@@ -1,6 +1,5 @@
 #include <OneWire.h>
 
-#include <DallasTemperature.h>
 /*-----( Import needed libraries )-----*/
 #include <Wire.h>  // Comes with Arduino IDE
 // Get the LCD I2C Library here: 
